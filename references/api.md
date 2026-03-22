@@ -1,6 +1,6 @@
 # Agent Wonderland API Reference
 
-Base URL: `https://api.agentwonderland.com`
+Base URL: `https://gateway-production-26ca.up.railway.app`
 
 ## Endpoints
 
